@@ -1,0 +1,9 @@
+mplsoccer
+pandas
+matplotlib
+numpy
+sklearn
+sklearn.metrics.pairwise
+sklearn.preprocessing
+json
+streamlit
