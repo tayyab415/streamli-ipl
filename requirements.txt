@@ -2,8 +2,6 @@ mplsoccer
 pandas
 matplotlib
 numpy
-sklearn
-sklearn.metrics.pairwise
-sklearn.preprocessing
+scikit-learn==1.0.2
 json
 streamlit
