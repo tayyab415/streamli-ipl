@@ -240,7 +240,7 @@ def runs_bar_chart(t3: pd.DataFrame, team_t3, t31: pd.DataFrame):
                  fontsize=25, fontweight='bold', color='white')
 
     # Set x-axis labels to horizontal and customize font
-    ax.set_xticklabels(strike_rate_df.columns, rotation=0, fontsize=5,
+    ax.set_xticklabels(strike_rate_df.columns, rotation=0, fontsize=7,
                        fontname='Raleway', fontweight='bold', color='white')
 
     # Display values on top of the bars
