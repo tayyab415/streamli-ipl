@@ -1,7 +1,8 @@
 mplsoccer
-pandas
 matplotlib
 numpy
-scikit-learn==1.0.2
-json
 streamlit
+pandas
+scikit-learn
+
+
